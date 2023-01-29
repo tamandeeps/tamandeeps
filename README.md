@@ -1,6 +1,15 @@
 ### Hi there 👋 I'm Tamandeep Singh.
 
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on open source projects, research in AI etc
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: tamandeepsingh999@gmail.com
+- ⚡ I love to do strength training excercies. 
+[![Tamandeep's github stats](https://github-readme-stats.vercel.app/api?username=tamandeeps&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tamandeeps/tamandeeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
